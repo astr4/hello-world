@@ -1,2 +1,2 @@
 # hello-world
-first code at programming
+first code at programming in different languages
