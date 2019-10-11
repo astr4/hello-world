@@ -1,5 +1,4 @@
 /* Hello world in C */
-
 #include <stdio.h>
 
 main()
